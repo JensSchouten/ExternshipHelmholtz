@@ -2,7 +2,7 @@
 
 These scripts were used in the externship project of Jens Schouten at the HelmholtzZentrum in Munich, titled: Classification of blood cells in acute lymphoblastic leukemia using convolutional neural networks. This work has been done using the ALL-IDB dataset of Labati et al. [1].
 
-Below some explanation of the different scripts is given. All scripts were created using Python 3.
+Below some explanation of the different scripts is given. The networks were trained on a Nvidia GeForce GTX TITAN X GPU with Python version 3.5, keras version 2.2.4 and tensorflow-GPU version 1.4.0. 
 
 ## Linear CNN scripts
 ### Cross_Validation_Splits.py
