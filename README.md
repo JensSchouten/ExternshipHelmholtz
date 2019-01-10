@@ -29,7 +29,7 @@ Network structure of the ResNeXt. This script is created by Xie et al. [2]
 Script that trains a ResNeXt from scratch on the single-cell images in the ALL-IDB dataset to classify between multiple classes of leukocytes using five-fold cross-validation.
 
 ### ResNext_Transfer_Learning.py
-Script that fine-tunes a ResNeXt that is trained on a similar task using the ALL-IDB dataset to classify between multiple classes of leukocytes using five-fold cross-validation.
+Script that uses transfer learning on a pre-trained ResNeXt, that is trained for a similar task, using the ALL-IDB dataset to classify between multiple classes of leukocytes using five-fold cross-validation.
 
 ## References
 [1] R. D. Labati, V. Piuri, and F. Scotti, “All-idb: The acute lymphoblastic leukemia
