@@ -5,7 +5,6 @@ Clean and simple Keras implementation of network architectures described in:
     
 Python 3.
 """
-#pscp D:\Desktop\Stage\Models\Multiple_ALL\residual_network_5.py jens.schouten@icb-gpusrv02:/home/icb/jens.schouten/scripts/multiple/
 
 ## coding: utf8
 from keras import layers
